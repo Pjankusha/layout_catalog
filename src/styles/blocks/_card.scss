@@ -53,7 +53,6 @@ p {
     justify-content: space-between;
 
     &--review {
-      display: flex;
       font-size: 10px;
       font-weight: variables.$normal-font-weight;
       color: variables.$main-text-color;
@@ -63,7 +62,7 @@ p {
     }
 
     &--stars {
-      margin-top: 16px;
+      margin-top: 15.9px;
     }
   }
 
